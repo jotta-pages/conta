@@ -1,5 +1,6 @@
 <?php
-     $conexao = mysqli_connect('localhost', 'root', '', 'login');
+     $conexao = mysqli_connect('127.0.0.1', 'root', '', 'login');
+
 
      //checar conexão
     
